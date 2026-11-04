@@ -1,0 +1,9 @@
+PRESTO · TIENDA ONLINE
+
+Abrí index.html con un navegador para recorrer la tienda. Conservá la carpeta assets junto al archivo.
+
+Incluye catálogo organizado por categorías, buscador, carrito, cantidades, total estimado, fotos individuales para empanadas y pizzas, persistencia del carrito en el navegador y preparación del pedido para WhatsApp de Presto.
+
+El catálogo y los precios se tomaron del menú público de Pedix al preparar esta versión. El local debe verificar y mantener los precios, la disponibilidad y los horarios actualizados.
+
+Al continuar, el navegador abre WhatsApp con el detalle del pedido. El cliente revisa y envía el mensaje para que Presto confirme. Esta versión no tiene base de datos ni panel administrativo; el negocio confirma los pedidos por WhatsApp.
